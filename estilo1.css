@@ -1,0 +1,105 @@
+body {
+		margin-left:7%;
+		margin-right:7%;
+		margin-top:2%;
+		background: black url("degrade1.jpg") 
+		top left repeat-x fixed;
+		scrollbar-arrow-color:white;
+		scrollbar-3dlight-color:black;
+		scrollbar-highlight-color:silver;
+		scrollbar-face-color:black;
+		scrollbar-shadow-color:white;
+		scrollbar-darkshadow-color:red;
+		scrollbar-track-color:yellow;
+		text-align:left;
+		line-height: 30px;
+		
+	}
+h1 	{
+		padding: 15px 15px 15px 15px;
+		border:5;
+		margin-bottom:2px;
+		border-top: 3px solid yellow;
+		border-bottom: 3px solid yellow;
+		text-align:center;
+		font: 28pt,verdana;
+		color: yellow;
+		margin-top: 0px;
+		letter-spacing: 4px;
+	}
+
+ul {
+font: 12pt, verdana;
+color: white;
+margin-left: 0px
+}
+
+li {
+font: 12pt, verdana;
+color: white;
+margin-left: 0px
+}
+p {
+word-spacing: 2px;
+letter-spacing: 1px;
+font: 12pt, verdana;
+color: white;
+margin-left: 0px;
+text-align: justify;
+}
+
+input {
+margin-top:2%;
+text-align: justify;
+color: black;
+font: 12pt, verdana;
+}
+
+form {
+margin-top:2%;
+text-align: center;
+font: 12pt, verdana;
+color: white;
+}
+
+textarea {
+margin-top:2%;
+font: 12pt, verdana;
+}
+
+h4 {
+font: 15pt, verdana;
+color: white;
+border-top: 1px solid yellow;
+border-right: 1px solid yellow;
+}
+
+table {
+vertical-align: center;
+text-align: justify;
+width: 100%;
+border: 1;
+margin: 6px 6px 6px 6px;
+}
+
+h3 {
+margin-top: 4%; 
+font: 12pt, verdana;
+color: white;
+text-align:center;
+border-left: 1px solid yellow;
+border-bottom: 1px solid yellow;
+}
+
+a {
+text-decoration: underline; 
+color: yellow;
+}
+
+h2 {
+text-align: center;
+font: 12pt, verdana;
+color: white;
+word-spacing: 10px;
+}
+
